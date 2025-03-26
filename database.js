@@ -20,32 +20,32 @@ let foods = JSON.parse(window.localStorage.getItem("foods")) ||[
     {
         foodId: 1,
         foodName: "Burger",
-        foodimg: "./img/burger.jpeg",
+        foodimg: "./burger.jpeg",
     },
     {
         foodId: 2,
         foodName: "Fanta",
-        foodimg: "./img/fanta.jpeg",
+        foodimg: "./fanta.jpeg",
     },
     {
         foodId: 3,
         foodName: "spinner",
-        foodimg: "./img/spinner.jpeg",
+        foodimg: "./spinner.jpeg",
     },
     {
         foodId: 4,
         foodName: "combo",
-        foodimg: "./img/combo.jpeg",
+        foodimg: "./combo.jpeg",
     },
     {
         foodId: 5,
         foodName: "chicken_togora",
-        foodimg: "./img/chicken_togora.jpeg",
+        foodimg: "./chicken_togora.jpeg",
     },
     {
         foodId: 6,
         foodName: "chicken_wings",
-        foodimg: "./img/chicken_wings.jpeg",
+        foodimg: "./chicken_wings.jpeg",
     },
 ]
 
